@@ -1,0 +1,18 @@
+.closetext {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 27px 0 0 0;
+}
+
+.closetext p {
+  color: #76839b;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+}
+.closetext button {
+  background: white;
+  border: none;
+}

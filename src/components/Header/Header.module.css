@@ -1,0 +1,31 @@
+.container {
+  padding: 23px 81px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  color: #18233c;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  gap: 11px;
+  align-items: center;
+
+  .star {
+    color: #526ff5;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+  }
+}
+
+.small {
+  display: flex;
+  align-items: center;
+  color: #76839b;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+}

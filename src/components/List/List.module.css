@@ -1,0 +1,52 @@
+.handler {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  border-bottom: 1px solid #e5eaf2;
+  width: 100%;
+}
+.buttons {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+}
+
+/* .handler button {
+  color: #76839b;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+} */
+
+.handler button {
+  display: flex;
+  padding: 10px 22px 11px 18px;
+  align-items: center;
+  border-radius: 9px;
+  background: #eef2ff;
+  border: none;
+  margin: 30px 0 13px 0;
+}
+
+.handler p {
+  color: #526ff5;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.counter {
+  color: #76839b;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 30px 0 13px 0;
+}
+
+.todo {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}

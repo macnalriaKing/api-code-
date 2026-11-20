@@ -1,0 +1,13 @@
+.mainBox {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 30px 32px 50px 32px;
+  border-radius: 20px;
+  border: 1px solid #e5eaf2;
+  background: #fff;
+  max-width: 600px;
+  width: calc(100% - 64px);
+}
